@@ -1,0 +1,18 @@
+
+# Kotlin compiled files
+*.jar
+*.class
+
+# Build directories
+build/
+.gradle/
+
+# IDE settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+
+# Logs
+*.log
