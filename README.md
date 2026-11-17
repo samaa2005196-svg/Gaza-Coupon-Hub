@@ -54,3 +54,13 @@ Choose option 4 to exit.
 
 Operating Systems Lab - Assignment 2
 
+## Testing
+
+To test the application:
+
+1. Build the Docker image.
+2. Run the container interactively.
+3. Choose option 1 to view coupons.
+4. Choose option 2 to add a coupon.
+5. Choose option 3 to search for a coupon.
+6. Choose option 4 to exit.
